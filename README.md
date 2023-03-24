@@ -5,6 +5,8 @@ This sample demonstrates how you could set up input handling for static bodies t
 It is strongly related to [my other sample on Drag & Drop between `Control` and `Node2D` nodes](https://github.com/jeroenheijmans/sample-godot-drag-drop-from-control-to-node2d).
 However, **this sample focuses on setting the `InputEvent` as "handled"** instead.
 
+👉 [link to the most interesting file](/GodotInputHandling/item.gd)
+
 ## Notes
 
 Be warned!
