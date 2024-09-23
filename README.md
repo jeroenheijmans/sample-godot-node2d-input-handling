@@ -7,6 +7,10 @@ However, **this sample focuses on setting the `InputEvent` as "handled"** instea
 
 👉 [link to the most interesting file](/GodotInputHandling/item.gd)
 
+## ⚠️ Notice about updates
+
+Note that this repository is provided "as-is" and will most likely not receive any (security) updates.
+
 ## Notes
 
 Be warned!
